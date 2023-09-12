@@ -22,7 +22,7 @@ nav {
 h1 {
     display: flex;
     align-items: center;
-    color: white;
+    color: rgb(187, 158, 235);
     flex: 1;
     margin: 0;
 }
@@ -35,13 +35,14 @@ h1 {
 }
 a {
     text-decoration: none;
-    color: #fff;
+    color: #e7a9ff;
 }
 
 /* main container area beneath menu */
 main {
-    background: rgb(245, 238, 219);
+    background: rgba(250, 213, 252, 0.747);
     display: flex;
+    margin: 0 auto;
 }
 .sidebar {
     margin-right: 25px;
